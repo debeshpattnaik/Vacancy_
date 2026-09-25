@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  tracker:
+    build: .
+    volumes:
+      - ../data:/app/data
+      - ../logs:/app/logs
+    environment:
+      - TZ=Asia/Kolkata
