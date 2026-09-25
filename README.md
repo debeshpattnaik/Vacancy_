@@ -1,7 +1,7 @@
 # 🏛️ Legal Vacancy Tracker
 
-[![Daily Check](https://github.com/YOUR_USERNAME/legal-vacancy-tracker/actions/workflows/daily.yml/badge.svg)](https://github.com/YOUR_USERNAME/legal-vacancy-tracker/actions/workflows/daily.yml)
-[![Tests](https://github.com/YOUR_USERNAME/legal-vacancy-tracker/actions/workflows/test.yml/badge.svg)](https://github.com/YOUR_USERNAME/legal-vacancy-tracker/actions/workflows/test.yml)
+[![Daily Check](https://github.com/debeshpattnaik/Vacancy_/actions/workflows/daily.yml/badge.svg)](https://github.com/debeshpattnaik/Vacancy_/actions/workflows/daily.yml)
+[![Tests](https://github.com/debeshpattnaik/Vacancy_/actions/workflows/test.yml/badge.svg)](https://github.com/debeshpattnaik/Vacancy_/actions/workflows/test.yml)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -27,8 +27,8 @@ Never miss a legal vacancy notification again. This tool scrapes official career
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/legal-vacancy-tracker.git
-cd legal-vacancy-tracker
+git clone https://github.com/debeshpattnaik/Vacancy_.git
+cd Vacancy_
 
 # 2. Install
 pip install -r requirements.txt
